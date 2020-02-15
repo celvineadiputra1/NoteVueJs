@@ -15,3 +15,14 @@ npm run serve
 
 ### Note
 Pastikan node js telah terinstal di anda
+
+
+### Create
+```
+Celvine Adi Putra
+```
+
+### Status
+```
+Development
+```
